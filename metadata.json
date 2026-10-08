@@ -1,0 +1,6 @@
+{
+  "name": "Holbox Tours La Colombiana - Sistema de Ventas",
+  "description": "Sistema PWA Offline-First de ventas, recibos térmicos 58mm, recibos media carta, bitácora y caja para Holbox Tours La Colombiana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
